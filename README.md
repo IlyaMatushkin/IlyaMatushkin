@@ -1,4 +1,4 @@
-# Добрый день, меня зовут Илья Матушкин
+# Добрый день, меня зовут Илья
 
 ### Аналитик данных
 :mag_right: Активно ищу работу
@@ -6,6 +6,9 @@
 :hammer_and_wrench: Python, SQL, HTML
 
 :heavy_check_mark: Сейчас работаю на фрилансе
+
+### Контакты
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilyamatushkin@gmail.com)
 
 ---
 ### Некоторые из моих проектов
