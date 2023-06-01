@@ -3,7 +3,7 @@
 ### Аналитик данных
 :mag_right: Активно ищу работу
 
-:hammer_and_wrench: Python, SQL, HTML
+:hammer_and_wrench: Python, SQL, Tableu
 
 :heavy_check_mark: Сейчас работаю на фрилансе
 
